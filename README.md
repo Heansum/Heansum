@@ -15,9 +15,9 @@
 Here are some ideas to get you started:
 -->
 # 🔎 Personal Info
-<strong>I'm a passionate developer who is interest with Code which is influence to the world!</strong><br>
-<strong>I'm interested in 🖥 Back-End and ⚓Operations.</strong><br>
-<strong>I like to cooperate with co-worker or colleague for making products!!</strong>
+<strong>I'm a passionate developer who is interested in coding to influence the world!</strong><br>
+<strong>Has a strong interest in pursuing 🖥 Back-End and ⚓Operations.</strong><br>
+<strong>Cooperating with co-workers and colleagues to make products is my greatest pleasure!!</strong>
 
 ## 🎈 About me
 - 🌱 I’m currently learning : DataStuctures with C, Algorithm with Java and python, Kubernetes for devOps.
